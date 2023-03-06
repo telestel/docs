@@ -1,0 +1,187 @@
+[
+  {
+    "name": "AmazonMWS",
+    "href": "/carriers/integrations/amazon_mws",
+    "status": "beta",
+    "features": [
+      "Rating",
+      "Shipping"
+    ]
+  },
+  {
+    "name": "Aramex",
+    "href": "/carriers/integrations/aramex",
+    "status": "beta",
+    "features": [
+      "Tracking"
+    ]
+  },
+  {
+    "name": "Australia Post",
+    "href": "/carriers/integrations/australiapost",
+    "status": "beta",
+    "features": [
+      "Tracking"
+    ]
+  },
+  {
+    "name": "Canada Post",
+    "href": "/carriers/integrations/canadapost",
+    "status": "certified",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking",
+      "Pickup"
+    ]
+  },
+  {
+    "name": "Canpar",
+    "href": "/carriers/integrations/canpar",
+    "status": "beta",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking",
+      "Pickup"
+    ]
+  },
+  {
+    "name": "Chronopost",
+    "href": "/carriers/integrations/chronopost",
+    "status": "beta",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking"
+    ]
+  },
+  {
+    "name": "DHL Express",
+    "href": "/carriers/integrations/dhl-express",
+    "status": "certified",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking",
+      "Pickup"
+    ]
+  },
+  {
+    "name": "DHL Poland",
+    "href": "/carriers/integrations/dhl-poland",
+    "status": "certified",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking"
+    ]
+  },
+  {
+    "name": "DHL Universal",
+    "href": "/carriers/integrations/dhl-universal",
+    "status": "certified",
+    "features": [
+      "Tracking"
+    ]
+  },
+  {
+    "name": "Dicom",
+    "href": "/carriers/integrations/dicom",
+    "status": "alpha",
+    "features": [
+      "Tracking"
+    ]
+  },
+  {
+    "name": "Deutsche Post DHL",
+    "href": "/carriers/integrations/dpdhl",
+    "status": "beta",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking"
+    ]
+  },
+  {
+    "name": "FedEx",
+    "href": "/carriers/integrations/fedex",
+    "status": "certified",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking",
+      "Pickup",
+      "Parperless"
+    ]
+  },
+  {
+    "name": "Purolator",
+    "href": "/carriers/integrations/purolator",
+    "status": "beta",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking",
+      "Pickup"
+    ]
+  },
+  {
+    "name": "Royal Mail",
+    "href": "/carriers/integrations/royalmail",
+    "status": "beta",
+    "features": [
+      "Rating"
+    ]
+  },
+  {
+    "name": "Sendle",
+    "href": "/carriers/integrations/sendle",
+    "status": "beta",
+    "features": [
+      "Tracking"
+    ]
+  },
+  {
+    "name": "TNT",
+    "href": "/carriers/integrations/tnt",
+    "status": "beta",
+    "features": [
+      "Tracking"
+    ]
+  },
+  {
+    "name": "UPS",
+    "href": "/carriers/integrations/ups",
+    "status": "certified",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking",
+      "Pickup",
+      "Parperless"
+    ]
+  },
+  {
+    "name": "USPS",
+    "href": "/carriers/integrations/usps",
+    "status": "beta",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking",
+      "Pickup"
+    ]
+  },
+  {
+    "name": "USPS International",
+    "href": "/carriers/integrations/usps-international",
+    "status": "beta",
+    "features": [
+      "Rating",
+      "Shipping",
+      "Tracking",
+      "Pickup"
+    ]
+  }
+]
